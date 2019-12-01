@@ -1,0 +1,121 @@
+{
+  "beef": {
+    "produced": {
+      "total": 10,
+      "tulsa_beef": 10
+    },
+    "demand": {
+      "total": 12,
+      "tulsa": 12
+    }
+  },
+  "berries": {
+    "produced": {
+      "total": 0,
+      "portland_textiles": 0
+    }
+  },
+  "cotton": {
+    "produced": {
+      "total": 20,
+      "portland_textiles": 20
+    },
+    "demand": {
+      "total": 18,
+      "portland": 18
+    }
+  },
+  "dye": {
+    "produced": {
+      "total": 36,
+      "portland_textiles": 36
+    },
+    "demand": {
+      "total": 48,
+      "minnetrista": 26,
+      "portland": 22
+    }
+  },
+  "fibers": {
+    "produced": {
+      "total": 48,
+      "portland_textiles": 48
+    },
+    "demand": {
+      "total": 48,
+      "minnetrista": 26,
+      "portland": 22
+    }
+  },
+  "leather": {
+    "produced": {
+      "total": 10,
+      "tulsa_beef": 10
+    },
+    "demand": {
+      "total": 28,
+      "portland": 16,
+      "tulsa": 12
+    }
+  },
+  "light_fabric": {
+    "produced": {
+      "total": 12,
+      "portland_textiles": 12
+    },
+    "demand": {
+      "total": 14,
+      "minnetrista": 8,
+      "portland": 6
+    }
+  },
+  "milk": {
+    "produced": {
+      "total": 10,
+      "tulsa_beef": 10
+    },
+    "demand": {
+      "total": 12,
+      "tulsa": 12
+    }
+  },
+  "napkins": {
+    "produced": {
+      "total": 8,
+      "portland_textiles": 8
+    },
+    "demand": {
+      "total": 10,
+      "minnetrista": 6,
+      "portland": 4
+    }
+  },
+  "summer_clothes": {
+    "produced": {
+      "total": 8,
+      "portland_textiles": 8
+    },
+    "demand": {
+      "total": 10,
+      "minnetrista": 6,
+      "portland": 4
+    }
+  },
+  "water": {
+    "produced": {
+      "total": -30,
+      "portland_textiles": -30,
+      "tulsa_beef": 0
+    }
+  },
+  "wheat": {
+    "produced": {
+      "total": 10,
+      "tulsa_beef": 10
+    },
+    "demand": {
+      "total": 14,
+      "tulsa": 14
+    }
+  }
+}

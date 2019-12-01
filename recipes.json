@@ -1,0 +1,372 @@
+{
+  "recipes": {
+    "apple_juice": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "apples": 1,
+        "water": 1
+      },
+      "products": {
+        "apple_juice": 2
+      }
+    },
+    "apples": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "apples": 2
+      }
+    },
+    "berries": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "berries": 2
+      }
+    },
+    "cheese": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "milk": 3,
+        "water": 2
+      },
+      "products": {
+        "cheese": 2
+      }
+    },
+    "chickens": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1,
+        "wheat": 1
+      },
+      "products": {
+        "chicken_meat": 1,
+        "eggs": 2
+      }
+    },
+    "cocoa": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "cocoa": 2
+      }
+    },
+    "cotton": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "cotton": 2
+      }
+    },
+    "cows": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1,
+        "wheat": 1
+      },
+      "products": {
+        "beef": 1,
+        "leather": 1,
+        "milk": 1
+      }
+    },
+    "dough": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "flour": 2,
+        "water": 1
+      },
+      "products": {
+        "dough": 2
+      }
+    },
+    "dye": {
+      "base_processing_time": 15,
+      "ingredients": {
+        "berries": 2,
+        "water": 2
+      },
+      "products": {
+        "dye": 2
+      }
+    },
+    "fibers": {
+      "base_processing_time": 15,
+      "ingredients": {
+        "cotton": 2
+      },
+      "products": {
+        "fibers": 2
+      }
+    },
+    "fish": {
+      "base_processing_time": 15,
+      "products": {
+        "fish": 1
+      }
+    },
+    "flour": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "wheat": 2
+      },
+      "products": {
+        "flour": 2
+      }
+    },
+    "grapes": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "grapes": 2
+      }
+    },
+    "hops": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "hops": 2
+      }
+    },
+    "light_fabric": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "dye": 1,
+        "fibers": 2
+      },
+      "products": {
+        "light_fabric": 2
+      }
+    },
+    "napkins": {
+      "base_processing_time": 45,
+      "ingredients": {
+        "light_fabric": 3
+      },
+      "products": {
+        "napkins": 2
+      }
+    },
+    "olive_oil": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "olives": 2
+      },
+      "products": {
+        "olive_oil": 2
+      }
+    },
+    "olives": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "olives": 2
+      }
+    },
+    "orange_juice": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "oranges": 1,
+        "water": 1
+      },
+      "products": {
+        "orange_juice": 2
+      }
+    },
+    "oranges": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "oranges": 2
+      }
+    },
+    "potatoes": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "potatoes": 2
+      }
+    },
+    "raw_rubber": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "raw_rubber": 2
+      }
+    },
+    "rubber": {
+      "base_processing_time": 15,
+      "ingredients": {
+        "raw_rubber": 2
+      },
+      "products": {
+        "rubber": 2
+      }
+    },
+    "sand": {
+      "base_processing_time": 15,
+      "products": {
+        "sand": 1
+      }
+    },
+    "sheep": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1,
+        "wheat": 1
+      },
+      "products": {
+        "mutton": 1,
+        "wool": 2
+      }
+    },
+    "sugar": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "sugar": 2
+      }
+    },
+    "summer_clothes": {
+      "base_processing_time": 45,
+      "ingredients": {
+        "dye": 2,
+        "light_fabric": 2
+      },
+      "products": {
+        "summer_clothes": 2
+      }
+    },
+    "vegetables": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "vegetables": 1
+      }
+    },
+    "water": {
+      "base_processing_time": 15,
+      "products": {
+        "water": 1
+      }
+    },
+    "wheat": {
+      "base_processing_time": 30,
+      "ingredients": {
+        "water": 1
+      },
+      "products": {
+        "wheat": 2
+      }
+    },
+    "wood": {
+      "base_processing_time": 15,
+      "products": {
+        "wood": 1
+      }
+    },
+    "wooden_planks": {
+      "base_processing_time": 15,
+      "ingredients": {
+        "wood": 3
+      },
+      "products": {
+        "wooden_planks": 2
+      }
+    },
+    "yeast": {
+      "base_processing_time": 15,
+      "ingredients": {
+        "sugar": 1,
+        "water": 1
+      },
+      "products": {
+        "yeast": 2
+      }
+    }
+  },
+  "store_stock": {
+    "adhesive": "construction_goods",
+    "apple_juice": "grocery_store",
+    "apples": "farmers_market",
+    "beef": "farmers_market",
+    "berries": "farmers_market",
+    "bottles": "construction_goods",
+    "canned_fish": "grocery_store",
+    "canned_mutton": "grocery_store",
+    "cheese": "grocery_store",
+    "chicken_meat": "farmers_market",
+    "chocolate": "grocery_store",
+    "coal": "hardware_store",
+    "cocoa": "farmers_market",
+    "concrete": "construction_goods",
+    "copper": "construction_goods",
+    "cotton": "hardware_store",
+    "dough": "grocery_store",
+    "dye": "clothing_store",
+    "eggs": "farmers_market",
+    "fibers": "clothing_store",
+    "fish": "farmers_market",
+    "flour": "grocery_store",
+    "furniture_base_l": "construction_goods",
+    "furniture_base_s": "construction_goods",
+    "gas": "hardware_store",
+    "glass": "construction_goods",
+    "glass_tubes": "construction_goods",
+    "grapes": "farmers_market",
+    "heavy_fabric": "clothing_store",
+    "hops": "farmers_market",
+    "leather": "hardware_store",
+    "light_fabric": "clothing_store",
+    "milk": "farmers_market",
+    "mutton": "farmers_market",
+    "napkins": "clothing_store",
+    "oil": "hardware_store",
+    "olives": "farmers_market",
+    "oranges": "farmers_market",
+    "paint": "construction_goods",
+    "paper_roll": "construction_goods",
+    "plastic": "construction_goods",
+    "potato_chips": "grocery_store",
+    "potatoes": "farmers_market",
+    "raw_rubber": "hardware_store",
+    "rubber": "construction_goods",
+    "sand": "hardware_store",
+    "soup": "grocery_store",
+    "sugar": "farmers_market",
+    "summer_clothes": "clothing_store",
+    "vegetables": "farmers_market",
+    "wall_panels": "construction_goods",
+    "wheat": "farmers_market",
+    "winter_clothes": "clothing_store",
+    "wood": "hardware_store",
+    "wool": "hardware_store",
+    "work_clothes": "clothing_store",
+    "yeast": "grocery_store"
+  }
+}

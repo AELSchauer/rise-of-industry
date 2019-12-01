@@ -1,0 +1,62 @@
+{
+  "demands": {
+    "town_name": {
+      "clothing_store": {
+        "dye": 0,
+        "fibers": 0,
+        "heavy_fabric": 0,
+        "light_fabric": 0,
+        "napkins": 0,
+        "summer_clothes": 0,
+        "winter_clothes": 0,
+        "work_clothes": 0
+      },
+      "farmers_market": {
+        "apples": 0,
+        "beef": 0,
+        "berries": 0,
+        "chicken_meat": 0,
+        "cocoa": 0,
+        "eggs": 0,
+        "fish": 0,
+        "grapes": 0,
+        "hops": 0,
+        "milk": 0,
+        "mutton": 0,
+        "olives": 0,
+        "oranges": 0,
+        "potatoes": 0,
+        "sugar": 0,
+        "vegetables": 0,
+        "wheat": 0
+      },
+      "hardware_store": {
+        "coal": 0,
+        "cotton": 0,
+        "gas": 0,
+        "leather": 0,
+        "oil": 0,
+        "raw_rubber": 0,
+        "sand": 0,
+        "wood": 0,
+        "wool": 0
+      }
+    }
+  },
+  "distances": {
+    "town_name": {}
+  },
+  "infrastructure": {
+    "town_name": {
+      "water": [
+        {
+          "efficiency": 1,
+          "harvesters": 0
+        }
+      ]
+    }
+  },
+  "region_abbreviations": {
+    "town": "town_name"
+  }
+}

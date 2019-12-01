@@ -1,0 +1,328 @@
+{
+  "demands": {
+    "fern_acres": {
+      "farmers_market": {
+        "apples": 7,
+        "beef": 6,
+        "cocoa": 7,
+        "fish": 7,
+        "grapes": 7,
+        "mutton": 6,
+        "olives": 7,
+        "sugar": 7
+      },
+      "hardware_store": {
+        "coal": 7,
+        "cotton": 7,
+        "leather": 6,
+        "oil": 7,
+        "raw_rubber": 7,
+        "sand": 7,
+        "wood": 7,
+        "wool": 7
+      },
+      "grocery_store": {
+        "chocolate": 2,
+        "cheese": 2,
+        "flour": 3,
+        "yeast": 6,
+        "potato_chips": 2,
+        "olive_oil": 3,
+        "dough": 2,
+        "canned_fish": 1
+      }
+    },
+    "green_spring": {
+      "farmers_market": {
+        "apples": 7,
+        "beef": 6,
+        "berries": 7,
+        "fish": 7,
+        "mutton": 6,
+        "olives": 7,
+        "oranges": 7,
+        "vegetables": 7
+      },
+      "hardware_store": {
+        "coal": 7,
+        "cotton": 7,
+        "gas": 7,
+        "leather": 6,
+        "oil": 7,
+        "sand": 7,
+        "wood": 7,
+        "wool": 7
+      }
+    },
+    "midfield": {
+      "farmers_market": {
+        "apples": 7,
+        "berries": 7,
+        "cocoa": 7,
+        "eggs": 7,
+        "fish": 7,
+        "mutton": 6,
+        "oranges": 7,
+        "wheat": 7
+      },
+      "hardware_store": {
+        "coal": 7,
+        "cotton": 7,
+        "leather": 6,
+        "oil": 7,
+        "raw_rubber": 7,
+        "sand": 7,
+        "wood": 7,
+        "wool": 7
+      }
+    },
+    "salem_heights": {
+      "farmers_market": {
+        "eggs": 7,
+        "grapes": 7,
+        "hops": 7,
+        "milk": 6,
+        "mutton": 6,
+        "oranges": 7,
+        "sugar": 7,
+        "vegetables": 7
+      },
+      "hardware_store": {
+        "coal": 7,
+        "cotton": 7,
+        "gas": 7,
+        "leather": 6,
+        "oil": 7,
+        "raw_rubber": 7,
+        "wood": 7,
+        "wool": 7
+      }
+    }
+  },
+  "infrastructure": {
+    "fern_acres": {
+      "apples": [
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        }
+      ],
+      "cocoa": [
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 4
+        }
+      ],
+      "grapes": [
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 4
+        }
+      ],
+      "olives": [
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 4
+        }
+      ],
+      "sugar": [
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 4
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 4
+        }
+      ],
+      "yeast": [
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        }
+      ],
+      "water": [
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        }
+      ],
+      "cows": [
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        }
+      ],
+      "cheese": [
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        }
+      ],
+      "wheat": [
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 5
+        }
+      ],
+      "flour": [
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        }
+      ],
+      "dough": [
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 1
+        }
+      ]
+    }
+  },
+  "region_abbreviations": {
+    "fer": "fern_acres",
+    "gre": "green_spring",
+    "mid": "midfield",
+    "sal": "salem_heights"
+  }
+}

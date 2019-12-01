@@ -1,0 +1,150 @@
+{
+  "demands": {
+    "ali_chuk": {
+      "clothing_store": {
+        "dye": 0,
+        "fibers": 0,
+        "heavy_fabric": 0,
+        "light_fabric": 0,
+        "napkins": 0,
+        "summer_clothes": 0,
+        "winter_clothes": 0,
+        "work_clothes": 0
+      },
+      "farmers_market": {
+        "apples": 0,
+        "beef": 8,
+        "berries": 0,
+        "chicken_meat": 8,
+        "cocoa": 8,
+        "eggs": 0,
+        "fish": 8,
+        "grapes": 8,
+        "hops": 8,
+        "milk": 8,
+        "mutton": 0,
+        "olives": 0,
+        "oranges": 0,
+        "potatoes": 0,
+        "sugar": 0,
+        "vegetables": 0,
+        "wheat": 8
+      },
+      "grocery_store": {
+        "apple_juice": 5,
+        "canned_fish": 2,
+        "cheese": 3,
+        "chocolate": 3,
+        "dough": 3,
+        "flour": 5,
+        "olive_oil": 5,
+        "yeast": 9
+      },
+      "hardware_store": {
+        "coal": 8,
+        "cotton": 8,
+        "gas": 8,
+        "leather": 8,
+        "oil": 8,
+        "raw_rubber": 8,
+        "sand": 8,
+        "wood": 8,
+        "wool": 0
+      }
+    }
+  },
+  "distances": {
+    "ali_chuk": {}
+  },
+  "infrastructure": {
+    "ali_chuk": {
+      "cows": [
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        }
+      ],
+      "cocoa": [
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        }
+      ],
+      "water": [
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        }
+      ],
+      "wheat": [
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        },
+        {
+          "efficiency": 1,
+          "harvesters": 3
+        }
+      ]
+    }
+  },
+  "region_abbreviations": {
+    "ali": "ali_chuk"
+  }
+}

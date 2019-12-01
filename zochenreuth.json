@@ -1,0 +1,348 @@
+{
+  "herrnsdorf": {
+    "chickens": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "cows": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "fish": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "potatoes": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "sand": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 3
+      }
+    ],
+    "water": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "wheat": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "wood": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ]
+  },
+  "tailfingen": {
+    "cotton": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "potatoes": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "water": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "wheat": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "wood": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "wooden_planks": [
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      }
+    ]
+  },
+  "zochenreuth": {
+    "chickens": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "cotton": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "olive_oil": [
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      }
+    ],
+    "olives": [
+      {
+        "efficiency": 1,
+        "harvesters": 3
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 3
+      }
+    ],
+    "sheep": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "dough": [
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      }
+    ],
+    "flour": [
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 1
+      }
+    ],
+    "water": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "sugar": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ],
+    "wheat": [
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      },
+      {
+        "efficiency": 1,
+        "harvesters": 5
+      }
+    ]
+  }
+}
